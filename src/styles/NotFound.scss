@@ -1,0 +1,12 @@
+// @import 'vars';
+
+.container {
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    place-items: center;
+}
+
+.title{
+    font-size: var(--lg);
+}
